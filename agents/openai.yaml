@@ -1,0 +1,4 @@
+interface:
+  display_name: "爆款视频结构复刻"
+  short_description: "拆解爆款视频底层结构，生成原创产品分镜、口播与视频提示词"
+  default_prompt: "使用 $viral-video-structure-replication 拆解我提供的对标视频，并结合我的产品、人物和场景生成两个原创短视频版本。"
